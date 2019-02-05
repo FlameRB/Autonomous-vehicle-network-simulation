@@ -1,4 +1,4 @@
-# A network of autonomous vehicle (figure below)
+# Groupwork Project: A network of autonomous vehicle (figure below)
 
 
 ![image](https://user-images.githubusercontent.com/15823161/52301287-65b38400-298a-11e9-81fb-4bf29ebcaae7.png)
@@ -29,3 +29,6 @@ Matlab
 # Author
 Nam Do <br />
 Louis Yin
+
+# Note:
+It was an memorable group work !! We put effort together and the result was as great as we expected :) !!
