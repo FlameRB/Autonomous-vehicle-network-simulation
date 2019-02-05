@@ -15,7 +15,7 @@ From the network topology it can be assumed that the PPP Link is the bottleneck.
 For the simulation three di˙erent independent scenarios are considered. In the first scenario the special Cluster Member is not transmitting or receiving any data. This scenario is called the Normal Scenario. In the second scenario the special Cluster Member is transmitting large data to the FTP server. This scenario is called the Upload Scenario. In the last scenario the special Cluster Member is receiving large data from the FTP server. This scenario is called the Download Scenario. All scenarios were simulated with different amounts of Cluster Members/HTTP users and constantly transmitting/receiving UDP packets. <br />
 The simulation runs for 500 s, which leads to a reasonable sized confidence intervals. The first 10 s are considered as a warm-up period. This is necessary to ensure that all users are connected to the Access Point and the FTP data transmission reaches a stable throughput. <br />
 
-Thing that needs to be analysised:
+Thing that needs to be analysised: <br />
 HTTP server <br />
 UDP server <br />
 queing delay <br />
