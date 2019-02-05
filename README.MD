@@ -31,4 +31,4 @@ Nam Do <br />
 Louis Yin
 
 # Note:
-It was an memorable group work !! We put effort together and the result was as great as we expected :) !!
+It was a memorable group work !! We put effort together and the result was as great as we expected :) !!
