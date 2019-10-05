@@ -23,7 +23,7 @@ bottle necks <br />
 Loss rate <br />
  
 # Built with
-C++ <br />
+OMnet++ / C++ <br />
 Matlab
 
 # Author
